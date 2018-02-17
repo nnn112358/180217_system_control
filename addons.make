@@ -1,0 +1,4 @@
+ofxGraph
+ofxGui
+ofxTrueTypeFontUC
+ofxXmlSettings
